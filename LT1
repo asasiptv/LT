@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="3",LRT HD LT
+#EXTGRP:LietuviÅ¡ki
+http://i7oarmy9.megogo.xyz/iptv/DCMRKCM9R42R86/6360/index.m3u
+#EXTINF:0 tvg-rec="3",LNK HD LT
+#EXTGRP:LietuviÅ¡ki
+http://i7oarmy9.megogo.xyz/iptv/DCMRKCM9R42R86/6405/index.m3u
+#EXTINF:0 tvg-rec="3",TV3 LT
